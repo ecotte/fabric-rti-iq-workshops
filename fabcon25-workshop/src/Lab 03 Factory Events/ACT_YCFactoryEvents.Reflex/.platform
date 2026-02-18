@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Reflex",
+    "displayName": "ACT_YCFactoryEvents"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "67aa24e8-6fda-a201-4fd1-66f13c343eb7"
+  }
+}

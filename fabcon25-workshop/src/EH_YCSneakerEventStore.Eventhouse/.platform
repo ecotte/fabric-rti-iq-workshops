@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Eventhouse",
+    "displayName": "EH_YCSneakerEventStore"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "da6e7990-8d7f-99fb-4af8-938a47cd02ba"
+  }
+}

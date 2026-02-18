@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DigitalTwinBuilder",
+    "displayName": "DTB_YCFactoryTwin"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "cf6f2aac-528c-92b1-444b-10343edabe85"
+  }
+}

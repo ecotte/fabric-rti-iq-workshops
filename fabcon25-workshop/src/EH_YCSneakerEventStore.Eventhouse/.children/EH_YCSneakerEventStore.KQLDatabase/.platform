@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDatabase",
+    "displayName": "EH_YCSneakerEventStore",
+    "description": "EH_YCSneakerEventStore"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3082de8b-6a4d-a9e3-44a3-eeb503b231b2"
+  }
+}
