@@ -1,0 +1,41 @@
+{
+  "schema_version": 68,
+  "tiles": [],
+  "baseQueries": [],
+  "parameters": [
+    {
+      "kind": "duration",
+      "id": "66d618e5-91f4-4fdf-aff6-bf2bd51908c7",
+      "displayName": "Time range",
+      "description": "",
+      "beginVariableName": "_startTime",
+      "endVariableName": "_endTime",
+      "defaultValue": {
+        "kind": "dynamic",
+        "count": 1,
+        "unit": "hours"
+      },
+      "showOnPages": {
+        "kind": "all"
+      }
+    }
+  ],
+  "dataSources": [
+    {
+      "kind": "kusto-trident",
+      "name": "EH_YCSneakerEventStore",
+      "clusterUri": "",
+      "id": "1e6f1582-b8f4-4ca8-b4ff-6b7f08bc68fe",
+      "database": "3082de8b-6a4d-a9e3-44a3-eeb503b231b2",
+      "workspace": "00000000-0000-0000-0000-000000000000",
+      "scopeId": "kusto-trident"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Page 1",
+      "id": "48b8bcd9-7270-421b-9eb7-e96c44777695"
+    }
+  ],
+  "queries": []
+}
